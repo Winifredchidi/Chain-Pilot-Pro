@@ -1,3 +1,6 @@
 node_modules
+<<<<<<< HEAD
 .next
+=======
+>>>>>>> 822a909c771dca30a969c288a5d62930387ac024
 .env

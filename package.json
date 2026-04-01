@@ -1,6 +1,7 @@
 {
   "name": "chain-pilot",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "Cross-chain AI agent using LI.FI",
   "main": "agent.js",
   "scripts": {
@@ -14,5 +15,19 @@
     "dotenv": "^16.0.0",
     "ethers": "^6.0.0",
     "express": "^5.2.1"
+=======
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1",
+    "ethers": "^6.16.0"
+>>>>>>> 822a909c771dca30a969c288a5d62930387ac024
   }
 }
