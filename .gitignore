@@ -1,6 +1,30 @@
-node_modules
-<<<<<<< HEAD
-.next
-=======
->>>>>>> 822a909c771dca30a969c288a5d62930387ac024
+# Node modules (ignore this)
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
 .env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: coverage reports
+coverage/
+
+# Optional: cache
+.cache/
